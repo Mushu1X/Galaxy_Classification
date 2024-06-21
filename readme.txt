@@ -1,4 +1,3 @@
-Drive link to download dataset: https://drive.google.com/drive/folders/1fI46tHgkqsxbwAPAuyhihx8pI5mqqhNA?usp=sharing
 
 **Please follow the folder structure after unzipping the image folders.
 
